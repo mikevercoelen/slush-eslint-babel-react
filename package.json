@@ -1,0 +1,23 @@
+{
+  "name": "slush-eslint-babel-react",
+  "version": "1.0.0",
+  "description": "Slush generator for modern Eslint using Babel and React",
+  "main": "index.js",
+  "preferGlobal": true,
+  "keywords": [
+    "slushgenerator",
+    "eslint",
+    "babel",
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomgrooffer/slush-eslint-babel-react.git"
+  },
+  "author": "Mike Vercoelen <mike.vercoelen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomgrooffer/slush-eslint-babel-react/issues"
+  },
+  "homepage": "https://github.com/tomgrooffer/slush-eslint-babel-react#readme"
+}
