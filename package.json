@@ -1,6 +1,6 @@
 {
   "name": "slush-eslint-babel-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Slush generator for modern Eslint using Babel and React",
   "main": "slushfile.js",
   "preferGlobal": true,
@@ -23,11 +23,9 @@
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-conflict": "^0.4.0",
-    "gulp-install": "^0.6.0",
     "gulp-rename": "^1.2.2",
     "gulp-template": "^3.1.0",
     "inquirer": "^0.12.0",
-    "merge-stream": "^1.0.0",
-    "underscore.string": "^3.2.3"
+    "npm-install-package": "^1.0.2"
   }
 }
